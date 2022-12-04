@@ -12,6 +12,7 @@
 - Zotai
 - Tailwind css
 - Firebase
+- Vercel
 
 3. 재미
 - 성능 개선
